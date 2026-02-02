@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Abdelnour (عبد النور)
 ### Web Developer in Progress 🚀 | Trader & Programmer
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="120"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
