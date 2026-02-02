@@ -1,10 +1,9 @@
 <div align="center">
 
-# 👋 Hi, I'm Abdelnour (عبد النور)
+# 👋 Hi, I'm Abdalnoor (عبد النور)
 ### Web Developer in Progress 🚀 | Trader & Programmer
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 ![Profile Views](https://komarev.com/ghpvc/?username=abdalnoor-rabaia&color=blue)
 
 </div>
