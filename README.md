@@ -1,26 +1,18 @@
 <div align="center">
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+  
+### 👋 Hi, I'm Abd alnoor raed
+**Web Developer in Progress | Trader & Programmer**
 
-# 👋 Hi, I'm Abdalnoor (عبد النور)
-### Web Developer in Progress 🚀 | Trader & Programmer
+![Profile Views](https://komarev.com/ghpvc/?username=abdalnoor-rabaia&color=orange)
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-
- ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue)
- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdalnoor-rabaia-558201304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 </div>
 
 ---
 
-## 🧠 About Me
-- 🎯 أتعلم **Web Development** (Front-End & Back-End)
-- 💻 خلفيتي: برمجة + تداول
-- 📚 هدفي: أصير Full Stack Developer
-- 🌍 مهتم بـ Linux و الأدوات المفتوحة المصدر
-
----
-
-## 🛠️ Tech Stack
+## 🚀 Tools I Use
 
 ### Front-End
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -28,7 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-### Back-End (بتتعلمهم أو ناوي)
+### Back-End
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 
@@ -40,11 +32,11 @@
 
 ---
 
-## 🧩 What I'm Learning Now
+## 🧠 Currently Learning
 ```js
 const learning = {
   frontend: ["HTML", "CSS", "JavaScript", "React"],
   backend: ["Node.js", "Express"],
-  databases: ["MongoDB", "MySQL"],
+  databases: ["MongoDB"],
   tools: ["Git", "Linux"]
 };
